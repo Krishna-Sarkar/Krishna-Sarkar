@@ -36,6 +36,13 @@ I love 🎮 gaming & 🎤 singing in my free time!
 
 ---
 
+## 📌 Pinned Projects
+
+- 🔹 [**Api-Automation-Python**](https://github.com/Krishna-Sarkar/Api-Automation-Python) – End-to-end API automation framework developed in Python to validate fintech/payment workflows.  
+- 🔹 [**UI-automation-Robot-Framework**](https://github.com/Krishna-Sarkar/UI-automation-Robot-Framework) – UI automation suite built using Robot Framework for reliable cross-browser testing.  
+- 🔹 [**UI-automation-playwright**](https://github.com/Krishna-Sarkar/UI-automation-playwright) – Modern UI test automation using Playwright in Python for fast, robust browser tests.  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
