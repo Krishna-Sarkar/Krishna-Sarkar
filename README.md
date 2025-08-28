@@ -27,7 +27,7 @@ I specialize in designing **scalable automation frameworks**, improving **test e
 ---
 
 ## 📄 Resume  
-[View My Resume](your-resume-link)  
+[View My Resume](https://drive.google.com/file/d/1FuiD5TMRqGz3rCvzcNNfVL_sHZYkS7cT/view?usp=sharing)  
 
 ---
 
