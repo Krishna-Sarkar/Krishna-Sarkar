@@ -1,15 +1,41 @@
-<h1 align="center">Hi 👋, I'm Krishna Sarkar</h1>
-<h3 align="left">Welcome to my GitHub profile! I'm a Software Development Engineer in Test (SDET) with over 2 years of experience in the fintech domain. I specialize in designing and implementing automated test frameworks, ensuring the highest quality of software through meticulous testing and continuous integration practices. I like to play video games and listening to ed sheeran</h3>
+# Hi 👋, I'm Krishna Sarkar  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishna-sarkar" alt="krishna-sarkar" /></a> </p>
+🚀 **Senior Software Development Engineer in Test (SDET)** with 3.5+ years of experience in the **fintech/payments domain**.  
+I specialize in designing **scalable automation frameworks**, improving **test efficiency**, and ensuring **software quality** through robust automation and CI/CD practices.  
 
-- 🌱 I’m currently learning **Playwright**
+---
 
-- 📫 How to reach me **krishnasarkar.23121999@gmail.com**
+## 🔧 Skills & Expertise  
+- **Programming & Automation**: Java, Python, Selenium, TestNG, Rest-Assured, Robot Framework, Playwright  
+- **Performance Testing**: K6  
+- **Databases**: MSSQL, SQLite, postgresql  
+- **CI/CD & DevOps**: GitHub Actions, AWS, Azure, Docker 
+- **Test Strategy**: API Testing, UI Automation, Performance, CI/CD Integration, Test Process Tracking  
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1zwAvELBQHvgkaXAiGIEXaiuQr2LMK0V4/view?usp=sharing)
+---
 
-- ⚡ Fun fact **i am a singer**
+## 🌱 Currently Learning  
+- **Kubernetes** for test environment orchestration  
+- **Japanese (JLPT N3)** for career opportunities in Japan
+  
+---
+
+## 📫 How to Reach Me  
+📧 **krishnasarkar.23121999@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/krishna-sarkar-6294ab190/)  
+
+---
+
+## 📄 Resume  
+[View My Resume](your-resume-link)  
+
+---
+
+## ⚡ Fun Fact  
+I love 🎮 gaming & 🎤 singing in my free time!  
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
